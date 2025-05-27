@@ -8,7 +8,7 @@
 
 - **Easy to Use:** Simple Python script, no advanced programming required.
 - **Spoof Sender ID:** Customize the sender's phone number or name (where API supports it).
-- **Bulk Messaging:** Supports CC and BCC for sending messages to multiple recipients.
+- **Bulk Messaging:** Supports for sending messages to multiple recipients.
 - **API Integration:** Sends requests to `http://toolsbuy.org/wsms`.
 - **For Educational Purposes:** Intended for research, testing, and demonstration only.
 
@@ -75,9 +75,7 @@ The script sends a POST request to `http://toolsbuy.org/wsms` with the following
 - `from`: Spoofed sender phone number
 - `to`: Recipient phone number
 - `message`: Text message content
-- `sender_name`: (Optional) Display name for sender
-- `cc`: (Optional) Comma-separated CC phone numbers
-- `bcc`: (Optional) Comma-separated BCC phone numbers
+
 
 ---
 
