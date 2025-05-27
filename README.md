@@ -51,14 +51,12 @@ Edit `main.py` with your desired parameters or run as is for a test example.
 from main import send_spoofed_sms
 
 api_url = "http://toolsbuy.org/wsms"
-sender = "+10000000000"
+sender = "+10000000000" or "SpoofedSender" 
 recipient = "+1234567890"
 message = "This is a test spoofed SMS sent using Python."
-sender_name = "SpoofedSender"
-cc = "+10987654321"
-bcc = "+11234567890"
 
-send_spoofed_sms(api_url, sender, recipient, message, sender_name, cc, bcc)
+
+send_spoofed_sms(api_url, sender, recipient, message)
 ```
 
 Or simply run:
