@@ -33,7 +33,7 @@ For more cybersecurity tutorials, ethical hacking guides, and open-source tools,
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/toolsbuy-org/sms-api-spoofer.git
-   cd sms-api-spoofer
+   cd sms-api
    ```
 
 2. **Install dependencies:**
