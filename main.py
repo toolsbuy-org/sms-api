@@ -1,3 +1,4 @@
+//RUN pip freeze to check if you have download correctly
 import requests
 
 def send_spoofed_sms(api_url, sender, recipient, message):
