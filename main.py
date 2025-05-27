@@ -25,6 +25,4 @@ if __name__ == "__main__":
     recipient = "+1234567890"
     message = "This is a test spoofed SMS sent using Python."
    
-   
-
     send_spoofed_sms(api_url, sender, recipient, message)
