@@ -14,6 +14,13 @@
 
 ---
 
+## 🙋‍♂️ Need Help?  
+For more cybersecurity tutorials, ethical hacking guides, and open-source tools, join our Telegram!
+
+<a href="https://t.me/toolsbuy" target="_blank">
+  <img src="https://img.shields.io/badge/👤 Chat%20on%20Telegram-blue?style=for-the-badge" alt="Chat on Telegram" />
+</a>
+
 ## ⚡ Getting Started
 
 ### Prerequisites
@@ -87,10 +94,3 @@ The script sends a POST request to `http://toolsbuy.org/wsms` with the following
 See [LICENSE](LICENSE) for full details.
 
 ---
-
-## 🙋‍♂️ Need Help?  
-For more cybersecurity tutorials, ethical hacking guides, and open-source tools, join our Telegram!
-
-<a href="https://t.me/toolsbuy" target="_blank">
-  <img src="https://img.shields.io/badge/👤 Chat%20on%20Telegram-blue?style=for-the-badge" alt="Chat on Telegram" />
-</a>
